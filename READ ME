@@ -1,0 +1,2 @@
+Most windows defender disablers for O.MG or Rubber Ducky dont turn off every feature. Real Time Protection also reenables on restart.
+This Payload fixes that and forever keeps target machine off Windows Defender 
